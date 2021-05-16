@@ -1,0 +1,8 @@
+{
+"articles":
+[
+{"id":"1","title":"helo"},
+{"id":"2","title":"GraphQLs FAQ"},
+{"id":"3","title":"JavaSript 101"}
+]
+}
